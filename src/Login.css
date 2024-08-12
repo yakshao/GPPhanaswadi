@@ -1,0 +1,34 @@
+
+
+.login{
+display: flex;
+min-height: 300px;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border: 1px solid lightblue;
+margin: 50px 20px;
+border-radius: 10px;
+}
+
+.inputField{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.margin10{
+    margin: 0 10px;
+}
+
+.margin20{
+    margin: 0 20px;
+}
+.margin30{
+    margin: 0 30px;
+}
+.formButton{
+    display: flex;
+    align-items: stretch;
+    justify-content: end;
+}
